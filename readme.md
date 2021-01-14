@@ -82,6 +82,7 @@
 - [condition](https://github.com/mndrix/condition) - Common Lisp-like condition system.
 - [function_expansion](https://github.com/mndrix/function_expansion) - Function-like macros.
 - [fsyntax](http://ciao-lang.org/ciao/build/doc/ciao.html/fsyntax_doc.html) - Ciao functional syntax.
+- [lsp_server](https://github.com/jamesnvc/lsp_server/) - Language Server Protocol server for SWI Prolog.
 
 ## IDE
 
